@@ -1,11 +1,7 @@
 package com.example.artest
 
-import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Toast
-import com.google.ar.sceneform.rendering.ModelRenderable
-import kotlinx.coroutines.future.await
 
 class MainActivity : AppCompatActivity() {
 
